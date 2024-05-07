@@ -1,7 +1,7 @@
 # Impact-of-ChatGPT-on-Stackoverflow-and-Youtube
 Impact of ChatGPT on Stackoverflow and Youtube Engagement
 
-The purpose of this project is to assess the impact of ChatGPT launch on platforms like stackoverflow and youtube. 
+The purpose of this project is to assess the impact of ChatGPT launch on platforms like stackoverflow and youtube. Our results are detailed out in this blog post: https://open.substack.com/pub/tarikajain/p/the-ai-disruption-chatgpts-takeover?r=2viqfw&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true 
 
 Stackoverflow:
 

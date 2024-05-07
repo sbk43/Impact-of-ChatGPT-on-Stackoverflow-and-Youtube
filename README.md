@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains all the materials related to our project aimed at understanding the impact of the AI model ChatGPT on digital engagement, specifically on Stack Overflow and YouTube. Our study explores shifts in engagement patterns, question similarity on Stack Overflow, and changes in video content and viewer interactions on YouTube. Our results are detailed out in this blog post: https://open.substack.com/pub/tarikajain/p/the-ai-disruption-chatgpts-takeover?r=2viqfw&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+This repository contains all the materials related to our project aimed at understanding the impact of the AI model ChatGPT on digital engagement, specifically on Stack Overflow and YouTube. Our study explores shifts in engagement patterns, question similarity on Stack Overflow, and changes in video content and viewer interactions on YouTube. Our results are detailed out in this blog post: https://tarikajain.substack.com/p/the-ai-disruption-chatgpts-takeover
 
 ### Project Title
 IMPACT OF ChatGPT ON DIGITAL ENGAGEMENT: A STUDY ON STACKOVERFLOW AND YOUTUBE

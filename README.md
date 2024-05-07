@@ -29,6 +29,7 @@ Data is obtained using search and coomentsthread endpoints of YouTube API. Just 
 3. Sentdex​
 4. StarQuest with Josh Starmer​
 5. Two Minute Paper
+   
 We extracted metrics such as video title, video published date, likes, comments, comment date, etc for all the videos present in these channels.
 
 Results:
